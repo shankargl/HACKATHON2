@@ -1,8 +1,8 @@
-# LoanLens: Agentic Regulatory Compliance Engine for Digital Lending
+# LoanLens: Agentic Regulatory Compliance Engine for Digital Lending..
 
 [![Compliance Shield](https://img.shields.io/badge/Compliance-RBI%20Digital%20Lending%202022-blue.svg)](https://www.rbi.org.in)
 [![Agentic Architecture](https://img.shields.io/badge/Architecture-Multi--Agent%20Gated%20Verification-indigo.svg)]()
-[![Zero Hallucination](https://img.shields.io/badge/Hallucination%20Defense-Citation%20Judge-emerald.svg)]()
+[![Zero Hallucination](https://img.shields.io/badge/Hallucination%20Defense-Citation%20Judge-emerald.svg)]() 
 
 > **Hackathon Submission Demo**  
 > **Problem:** Millions of first-time borrowers accept digital loans by tapping *"I Agree"* on 15–20 pages of dense legal text they cannot evaluate. Predatory terms (contact harvesting, hidden APR, third-party repayments, recovery harassment) hide inside.  
