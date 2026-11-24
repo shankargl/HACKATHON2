@@ -10,7 +10,7 @@
 
 ---
 
-## 1. System Architecture & Agent Workflow
+## 1. System Architecture & Agent Workflow....
 
 ```mermaid
 flowchart TD
